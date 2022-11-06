@@ -115,7 +115,6 @@
   .card .content .details .abutton button 
   {
     padding: 10px 30px;
-    background-color:#ff5f95;
     color: #fff;
     border: none;
     outline: none;
@@ -124,10 +123,12 @@
     cursor:pointer;
     border-radius: 5px;
   }
-  .card .content .details .abutton button :nth-child(2)
-  {
-border: 1px soild #999;
-color: #999;
-background: #fff;
-  }
+.b1
+{
+  background-color: #fb619c;
+}
+.b2
+{
+  background-color: grey;
+}
   
